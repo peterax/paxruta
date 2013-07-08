@@ -26,5 +26,13 @@ namespace PAxRuta
         {
             MessageBox.Show("Hello world!");
         }
+
+
+
+        private void button1_MouseEnter(object sender, EventArgs e)
+        {
+            MessageBox.Show("Don't click!");
+
+        }
     }
 }
