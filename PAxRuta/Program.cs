@@ -17,7 +17,7 @@ namespace PAxRuta
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-            // change something 123123
+            // change something 123123 sdfasdf asdf
         }
     }
 }
